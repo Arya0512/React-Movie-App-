@@ -1,12 +1,25 @@
-# React + Vite
+# 🎬 Movie Explorer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React.js app to search and view details of movies using the OMDb API. Styled with Material UI.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Search movies by name
+- View detailed info (plot, rating, genre, etc.)
+- Responsive layout with Material UI
+- React Router for navigation
+- Error handling for no results
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
+[Your Netlify/Vercel/Live Link]
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- React.js
+- Material UI
+- OMDb API
+- React Router
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation
+```bash
+npm install
+npm run dev
+
